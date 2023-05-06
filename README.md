@@ -1,5 +1,7 @@
-Demo Video of the Weather-App : [https://www.canva.com/design/DAFhqeZUaS8/9e7JtwfsZholI31P5mRhuw/watch?utm_content=DAFhqeZUaS8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink]
-![weather-app](https://user-images.githubusercontent.com/90144181/235664218-4674315c-c2dd-477b-a3ee-5474643bbcf3.png)
+[Demo Video of the Weather-App](https://www.canva.com/design/DAFhqeZUaS8/9e7JtwfsZholI31P5mRhuw/watch?utm_content=DAFhqeZUaS8&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+
+
+![weather-app](https://user-images.githubusercontent.com/90144181/236605629-cd51c283-c64b-44a1-bd7b-4017e5a18be6.png)
 
 
 # Getting Started with Create React App
