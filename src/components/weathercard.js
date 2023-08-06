@@ -1,3 +1,4 @@
+import Clock from "./Clock";
 const Weathercard = ({ weatherinfo, search }) => {
   const {
     temp,
@@ -39,7 +40,10 @@ const Weathercard = ({ weatherinfo, search }) => {
             </div>
           </div>
         </div>
-        <div className="date">{new Date().toLocaleString()}</div>
+        <div className="date">
+          {/* {new Date().toLocaleString()} */}
+          <Clock/>
+          </div>
         <div className="extra-temp">
           <div className="temp-info-minmax">
             <div className="two-sided-section">
